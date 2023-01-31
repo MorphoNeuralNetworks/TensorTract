@@ -6,7 +6,7 @@ Currently, the tool compute the first-order partial derivatives of 3D-images to 
 
 ## Image Gallery
 ### Partial Derivative
-In the above example, the first-order partial derivatives of 3D-image at the XY direction, reveals the orientation of "alveus tracts" of the hippocampus in a fluorescent  transgenic mouse (Thy1-eYFP). 
+In the above example, the first-order partial derivatives of 3D-image in the XY direction and at the appropriate spatial scale, reveals the orientation of "alveus tracts" of the hippocampus in a fluorescent  transgenic mouse (Thy1-eYFP). 
 ![Partial Derivative](https://github.com/MorphoNeuralNetworks/TensorTract/blob/main/readme_images/PartialDerivativeComputation.png)
 
 ## AUTHORS
