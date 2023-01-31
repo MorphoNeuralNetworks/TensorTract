@@ -1,8 +1,8 @@
 # TensorTract
 ## Description
-TensorTract (TT) tool is a tractography utility to study axonal tracts in mouse whole brain images.
+The TensorTract (TT) tool is a tractography utility to study axonal tracts in mouse whole brain images.
 
-Currently, the tool compute the first-order partial derivatives of 3D-images to evaluate the Tensor at each point of the image. The output of this code will be the input of already available tracotgraphy anlysis tools such as TrackVis. 
+Currently, the tool compute the first-order partial derivatives of 3D-images to evaluate the Tensor at each point of the image. The output of this code will be the input of already available tracotgraphy anlysis tools such as "TrackVis". 
 
 ## Image Gallery
 ### Partial Derivative
